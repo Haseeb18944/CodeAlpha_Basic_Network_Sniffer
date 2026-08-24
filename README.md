@@ -42,3 +42,18 @@ CodeAlpha_Basic_Network_Sniffer/
 ├── docs/
 │   └── capture_report.csv
 └── screenshots/
+---
+
+## Evidence
+
+### Live Packet Capture
+
+The following screenshot demonstrates live packet capture and packet metadata analysis:
+
+![Live Packet Capture](screenshots/packet_capture.png)
+
+### CSV Report
+
+The following screenshot demonstrates the exported packet metadata report:
+
+![CSV Capture Report](screenshots/csv_report.png)
